@@ -6,4 +6,4 @@ this is 2nd line which is written after 1st commit.
 
 4th line add after GitHub from local repository
 
-5th line add from GitHub to pull fetch from repository 
+6th line add from GitHub to pull fetch from repository 
