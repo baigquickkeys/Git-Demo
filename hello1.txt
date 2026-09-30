@@ -1,3 +1,5 @@
 "Hello Git!" This is first line!
 
 this is 2nd line which is written after 1st commit. 
+
+3rd line edit in feature1 branch 
